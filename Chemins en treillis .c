@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
- // comùbinaison c(n,k)
+ // comÃ¹binaison c(n,k)
  
    long long binomial( int n ,int k){
    	 if(k>n) return 0;
