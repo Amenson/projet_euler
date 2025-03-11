@@ -17,7 +17,7 @@ long long plus_grand_facteur_premier(long long n) {
         }
     }
     
-    // Si n > 1, c’est un facteur premier restant
+    // Si n > 1, câ€™est un facteur premier restant
     if (n > 1) {
         max_facteur = n;
     }
