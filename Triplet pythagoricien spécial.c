@@ -14,7 +14,7 @@ int main( ) {
 	
               printf("Verification : %d + %d + %d = %d\n", a, b, c, a + b + c);
               
-                printf("Pythagore : %d² + %d² = %d² -> %d + %d = %d\n", 
+                printf("Pythagore : %dÂ² + %dÂ² = %dÂ² -> %d + %d = %d\n", 
                        a, b, c, a * a, b * b, c * c);        
                        printf("le produit est:%d*%d*%d=%d\n",a,b,c,produit);
    } 
